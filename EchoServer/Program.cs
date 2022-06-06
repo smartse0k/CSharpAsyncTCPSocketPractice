@@ -1,6 +1,7 @@
 ﻿using EchoServer;
 
-Server server = new Server(10000);
+//Server server = new Server(10000);
+ServerTask server = new ServerTask(10000);
 
 while (true)
 {
