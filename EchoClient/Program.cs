@@ -1,6 +1,6 @@
 ﻿using EchoClient;
 
-Client client = new Client("127.0.0.1", 10000);
+ClientTask client = new ClientTask("127.0.0.1", 10000);
 
 while (true)
 {
